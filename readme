@@ -1,0 +1,4 @@
+# this is pc registation system which is made by java swing and jdbc 
+# the database is mysql
+# before you run extract the zip file and run the sql file in your database and manage the database connection in the java code
+# src/pcregistration/DatabaseCoonnection.java is where you can change the database connection
